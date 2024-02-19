@@ -1,0 +1,10 @@
+{
+    "url": "https://exploits.github.io/xsspoc/test.yaml",
+    "urls": [{
+        "url": "https://exploits.github.io/xsspoc/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://exploits.github.io/xsspoc/test2.yaml",
+        "name": "Foo2"
+    }]
+}
