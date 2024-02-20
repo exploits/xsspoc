@@ -2,9 +2,9 @@
     "url": "https://exploits.github.io/xsspoc/test.yaml",
     "urls": [{
         "url": "https://exploits.github.io/xsspoc/test.yaml",
-        "name": "Foo"
+        "name": "EA Red Team1"
     },{
         "url": "https://exploits.github.io/xsspoc/test2.yaml",
-        "name": "Foo2"
+        "name": "EA Red Team2"
     }]
 }
